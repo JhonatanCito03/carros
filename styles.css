@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(35, 35, 40);
+}
+
+
+
+form{
+    margin-top: auto;
+    color: aliceblue;
+
+}
+
+button{
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+    margin-top: 10px;
+    border-radius: 10px;
+    border-color: antiquewhite;
+}
+
+.table{
+    width: auto;
+    height: 10px;
+    margin-left: 500px;
+    position: absolute;
+}
